@@ -14,8 +14,8 @@ export const Welcome = ({ className, ...props }) => {
         </p>
         {/* Botão centralizado */}
         <button
-          className="mt-8 px-6 py-3 text-white font-semibold rounded-lg hover:bg-green-600 transition duration-300 mx-auto md:mx-0"
-          style={{ backgroundColor: '#588C3C', width: '80%' }}
+          className="bg-custom-green mt-8 px-6 py-3 text-white font-semibold rounded-lg hover:bg-green-600 transition duration-300 mx-auto md:mx-0"
+          style={{ width: '80%' }}
         >
           Comprar
         </button>

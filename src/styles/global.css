@@ -1,0 +1,24 @@
+.text-custom-green {
+  color: #588C3C ;
+}
+
+.backgroud-green {
+  background-color: #588C3C ;
+}
+
+.spinner-border {
+  border-top-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: text-bottom;
+  animation: spin 1s infinite linear;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

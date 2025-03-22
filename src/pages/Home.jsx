@@ -1,4 +1,4 @@
-import '../styles/Home.css';
+import '../styles/global.css';
 import { Navbar } from "../components/Navbar";
 import { Welcome } from "../components/Welcome";
 import { Diferenciais } from "../components/Diferenciais"; // Importe o componente Diferenciais

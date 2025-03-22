@@ -4,7 +4,7 @@ import perfil from "../assets/images/perfil-logo.jpg";
 
 export default function Feedback() {
   return (
-    <div className="flex flex-col md:flex-row items-center gap-8 bg-white p-8 rounded-2xl shadow-lg">
+    <div className="flex flex-col md:flex-row items-center gap-8 bg-white  rounded-2xl shadow-lg">
       <div className="flex justify-center">
         <img
           src={feedback}
